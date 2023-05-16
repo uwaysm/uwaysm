@@ -14,7 +14,7 @@
 </ul>
 
 <h2 align="center">🚀 Projects</h2>
-None for display yet, 🤫🤫🤫
+None for display yet
 <h1><h1>
   
 <!-- <div align="center">
