@@ -1,7 +1,7 @@
 ### Hello World
 
 <!-- Heading -->
-<h1 align="center">👋 I'm a Computer Science and Data Science student at the University of Western Australia!</h1>
+<h1 align="center">👋 I'm a Computer Science and Data Science student</h1>
 
 <!-- Interests -->
 <h2i  align="center">🔥 Interests</h2>
